@@ -246,7 +246,7 @@ const achievementSection = {
     {
       title: "Google - Technical Support Fundamentals",
       subtitle: "Gained expertise in troubleshooting, system administration, networking, and IT security. Developed hands-on skills in Linux, command-line tools, and cloud computing essentials",
-      image: require("./assets/images/google.jpg"),
+      image: require("./assets/images/google-temp.png"),
       imageAlt: "Google - Technical Support Fundamentals Logo",
       footerLink: [
         {name: "Certification", url: "https://drive.google.com/file/d/1aw8j1wdvgh-ryAfsgReUT87qfPbuyzWy/view?usp=sharing"}
