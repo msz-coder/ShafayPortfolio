@@ -4,7 +4,7 @@ A fully responsive **personal portfolio website** to showcase **projects, skills
 
 - **Date Created**: 10 March 2025  
 - **Last Modification Date**: 15 March 2025  
-- **Live URL**: [Insert Your Portfolio URL Here]  
+- **Live URL**: [Shafay's Portfolio](https://main.d3va7qg6o6ibvu.amplifyapp.com/) 
 - **Original GitHub Repository**: [DeveloperFolio](https://github.com/saadpasta/developerFolio)  
 - **Current Repository**: [My Custom Portfolio](https://github.com/msz-coder/Portfolio-V2)  
 

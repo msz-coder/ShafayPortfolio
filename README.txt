@@ -3,8 +3,8 @@
 A fully responsive **personal portfolio website** to showcase **projects, skills, and experiences**. Built using **React.js**, inspired by the **DeveloperFolio** template, but heavily modified to match **my personal branding, projects, and professional journey**.
 
 - **Date Created**: 10 March 2025  
-- **Last Modification Date**: 15 March 2025  
-- **Live URL**: [Insert Your Portfolio URL Here]  
+- **Last Modification Date**: 16 March 2025  
+- **Live URL**: [Shafay's Portfolio](https://main.d3va7qg6o6ibvu.amplifyapp.com/)  
 - **Original GitHub Repository**: [DeveloperFolio](https://github.com/saadpasta/developerFolio)  
 - **Current Repository**: [Portfolio-V2](https://github.com/msz-coder/Portfolio-V2)  
 
