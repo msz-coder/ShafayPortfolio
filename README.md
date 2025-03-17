@@ -1,4 +1,4 @@
-# **Lab 6 - Personal Portfolio Website**
+# **Personal Portfolio Website**
 
 A fully responsive **personal portfolio website** to showcase **projects, skills, and experiences**. Built using **React.js**, inspired by the **DeveloperFolio** template, but heavily modified to match **my personal branding, projects, and professional journey**.
 
