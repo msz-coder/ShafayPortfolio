@@ -128,7 +128,7 @@ const openSource = {
 
 
 const bigProjects = {
-  title: "Projects",
+  title: "Notable Projects",
   subtitle: "SOME PROJECTS I HAVE BUILT & CONTRIBUTED TO",
   projects: [
     {
